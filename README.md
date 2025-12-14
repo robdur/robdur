@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Robert 
-- 👀 I am a passionate IT-allrounder with several years of experiences within the technical support.
-   I am interesseted in: Code, Blockchain, IoT, BigData, Industrie 4.0, Cloud services, AI,  Maschine Learing and many more. 
-- 🌱 I’m currently learning powershell to automate daily/common IT Admin tasks.
-- 💞️ I’m looking to collaborate on some basic projects.
-- 📫 How to reach me? If you like someone, you can find them anywhere and at any time :)
+👋 Welcome ya all. Good to see you again!  
+🤫 I am a passionate IT-allrounder with several years of experiences within the tech-support and Service delivery mangement.
+😎 I am interesseted in: AI, Coding, Blockchain, IoT, BigData, Industrie 4.0, Cloud services, AI, PM, technical recuriting
+🌱 I’m currently improving all my social and working channels. 
+📫 How to reach me? If you like someone, you can find them anywhere and at anytime :)
 
 <!---
 robdur/robdur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
